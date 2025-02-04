@@ -1,33 +1,18 @@
-👋 Hey, I'm Kevin!
+# 💫 About Me:
+👋 Hey, I'm Kevin!<br><br>I'm a passionate web developer with a strong foundation in networking, web applications, and IT security. I love creating dynamic and interactive user experiences using modern technologies. Whether it's front-end frameworks, full-stack development, or mobile apps, I'm always eager to learn and build something exciting. 🚀 About Me<br><br>💻 I specialize in JavaScript, TypeScript, and modern front-end frameworks<br>🎯 Currently working with Angular, Vue.js, and React<br>🔒 Interested in IT Security & Authentication<br>🤖 Exploring the world of Prompt Engineering<br>📱 Developing mobile apps and web applications<br><br>🛠️ Tech Stack<br><br>Languages: HTML, CSS, JavaScript, TypeScript, SCSS<br>Frameworks & Libraries: Angular, Vue.js, React, Material Design<br>Backend & Cloud: Firebase (Authentication, Hosting), RESTful APIs<br>Other Tools: Git, IT Security, Hosting/Server<br><br>📌 Projects I've Worked On<br><br>🌍 Responsive & Interactive Websites (HTML, CSS)<br>🛒 E-Commerce Marketplace Components (HTML, CSS, JavaScript)<br>📊 Data Visualization with External APIs (JavaScript, RESTful API)<br>🏢 Project Management Web Application (HTML, CSS, JavaScript, Git, Firebase)<br>🎮 Browser-Based Jump-and-Run Game (JavaScript, Object-Oriented Programming)<br>🏢 Customer Management System (Angular, Material Design)<br>🌟 Professional Portfolio Website (Angular)<br>💬 Complex Chat Messenger (Angular, Firebase)<br><br>📫 Get in Touch<br><br>🌐 coming soon<br>💼 coming soon<br>
 
-I'm a passionate web developer with a strong foundation in networking, web applications, and IT security. I love creating dynamic and interactive user experiences using modern technologies. Whether it's front-end frameworks, full-stack development, or mobile apps, I'm always eager to learn and build something exciting.
-🚀 About Me
 
-    💻 I specialize in JavaScript, TypeScript, and modern front-end frameworks
-    🎯 Currently working with Angular, Vue.js, and React
-    🔒 Interested in IT Security & Authentication
-    🤖 Exploring the world of Prompt Engineering
-    📱 Developing mobile apps and web applications
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kevinkaroly&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kevinkaroly&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkaroly&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🛠️ Tech Stack
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kevinkaroly&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
-    Languages: HTML, CSS, JavaScript, TypeScript, SCSS
-    Frameworks & Libraries: Angular, Vue.js, React, Material Design
-    Backend & Cloud: Firebase (Authentication, Hosting), RESTful APIs
-    Other Tools: Git, IT Security, Hosting/Server
+---
+[![](https://visitcount.itsvg.in/api?id=kevinkaroly&icon=2&color=1)](https://visitcount.itsvg.in)
 
-📌 Projects I've Worked On
-
-    🌍 Responsive & Interactive Websites (HTML, CSS)
-    🛒 E-Commerce Marketplace Components (HTML, CSS, JavaScript)
-    📊 Data Visualization with External APIs (JavaScript, RESTful API)
-    🏢 Project Management Web Application (HTML, CSS, JavaScript, Git, Firebase)
-    🎮 Browser-Based Jump-and-Run Game (JavaScript, Object-Oriented Programming)
-    🏢 Customer Management System (Angular, Material Design)
-    🌟 Professional Portfolio Website (Angular)
-    💬 Complex Chat Messenger (Angular, Firebase)
-
-📫 Get in Touch
-
-    🌐 coming soon
-    💼 coming soon
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
