@@ -14,7 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kevinkaroly&icon=2&color=1)](https://visitcount.itsvg.in)
-<div align="center">
-  ![snake gif](https://github.com/kevinkaroly/kevinkaroly/blob/output/github-snake-dark.svg)
-</div>
+
+![snake gif](https://github.com/kevinkaroly/kevinkaroly/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
